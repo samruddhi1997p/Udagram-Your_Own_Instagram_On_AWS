@@ -1,2 +1,0 @@
-URL:
-http://udagramsam-dev.us-east-2.elasticbeanstalk.com/filteredimage?image_url=https://support.apple.com/library/content/dam/edam/applecare/images/en_US/icloud/ios13-iphone-xs-ipad-pro-files-app-hero.jpg

@@ -1,0 +1,2 @@
+URL:
+http://udagram-sam-dev.us-east-2.elasticbeanstalk.com/filteredimage?image_url=https://samrudhi-dev.s3.us-east-2.amazonaws.com/xander0.jpg
